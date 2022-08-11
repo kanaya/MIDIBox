@@ -235,6 +235,7 @@ PF10-4-7</text>
 </polygon>
 <wire x1="65" y1="50" x2="65" y2="4" width="0.2" layer="22"/>
 <wire x1="26" y1="50" x2="65" y2="50" width="0.2" layer="22" curve="180"/>
+<text x="45.5" y="25" size="1" layer="25" align="center">Note: Tip=MIDI5, Ring=MIDI4, Sleeve=MIDI2</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
