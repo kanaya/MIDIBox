@@ -9,17 +9,17 @@
 </settings>
 <grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="2" display="yes" altdistance="50" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
@@ -174,7 +174,7 @@
 <rectangle x1="90" y1="11.5" x2="91" y2="45.5" layer="42"/>
 <rectangle x1="12" y1="0" x2="79" y2="1" layer="42"/>
 <rectangle x1="0" y1="11.5" x2="1" y2="45.5" layer="42"/>
-<text x="45.5" y="27" size="1" layer="25" align="center">MIDI Box 0.0.1</text>
+<text x="45.5" y="27" size="1" layer="25" align="center">MIDI Box 0.0.1-X</text>
 <hole x="76.5" y="14" drill="2.5"/>
 <hole x="76.5" y="43" drill="2.5"/>
 <hole x="14.5" y="43" drill="2.5"/>
@@ -210,7 +210,7 @@
 Takachi
 PF10-4-7</text>
 <text x="14.5" y="11.5" size="1" layer="25" align="center">4-M2.3</text>
-<text x="45.5" y="25" size="1" layer="25" align="center">Type A (MIDI Standard): Tip=MIDI5, Ring=MIDI4, Sleeve=MIDI2</text>
+<text x="45.5" y="25" size="1" layer="25" align="center">Type A (MIDI Standard): Tip=MIDI5, Ring=MIDI4; Type B: Tip=MIDI4, Ring=MIDI5; Sleeve=MIDI2</text>
 <text x="68.5" y="19" size="1" layer="25" align="center-left">Slot</text>
 <polygon width="0.1524" layer="21">
 <vertex x="67" y="19"/>
@@ -250,6 +250,24 @@ PF10-4-7</text>
 <text x="45.5" y="42" size="1" layer="26" rot="MR0" align="center">GND</text>
 <text x="40.42" y="39.5" size="1" layer="26" rot="MR0" align="center">SND</text>
 <text x="50.58" y="39.5" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="65" y="42" size="1" layer="26" rot="MR0" align="center">GND</text>
+<text x="59.92" y="39.5" size="1" layer="26" rot="MR0" align="center">SND</text>
+<text x="70.08" y="39.5" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="26" y="42" size="1" layer="26" rot="MR0" align="center">GND</text>
+<text x="20.92" y="39.5" size="1" layer="26" rot="MR0" align="center">SND</text>
+<text x="31.08" y="39.5" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="22.92" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
+<text x="33.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
+<text x="28" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
+<text x="63" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
+<text x="68.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
+<text x="57.92" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
+<text x="63" y="16" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="63" y="22" size="1" layer="26" rot="MR0" align="center">SND</text>
+<text x="65.54" y="22" size="1" layer="26" rot="MR0" align="center-right">RNG</text>
+<text x="65.54" y="16" size="1" layer="26" rot="MR0" align="center-right">TIP</text>
+<text x="60.46" y="16" size="1" layer="26" rot="MR0" align="center-left">RNG</text>
+<text x="60.46" y="22" size="1" layer="26" rot="MR0" align="center-left">TIP</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
