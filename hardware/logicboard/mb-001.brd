@@ -256,18 +256,24 @@ PF10-4-7</text>
 <text x="26" y="42" size="1" layer="26" rot="MR0" align="center">GND</text>
 <text x="20.92" y="39.5" size="1" layer="26" rot="MR0" align="center">SND</text>
 <text x="31.08" y="39.5" size="1" layer="26" rot="MR0" align="center">RTN</text>
-<text x="22.92" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
-<text x="33.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
-<text x="28" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
-<text x="63" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
-<text x="68.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
-<text x="57.92" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
-<text x="63" y="16" size="1" layer="26" rot="MR0" align="center">RTN</text>
-<text x="63" y="22" size="1" layer="26" rot="MR0" align="center">SND</text>
-<text x="65.54" y="22" size="1" layer="26" rot="MR0" align="center-right">RNG</text>
-<text x="65.54" y="16" size="1" layer="26" rot="MR0" align="center-right">TIP</text>
-<text x="60.46" y="16" size="1" layer="26" rot="MR0" align="center-left">RNG</text>
-<text x="60.46" y="22" size="1" layer="26" rot="MR0" align="center-left">TIP</text>
+<text x="20.92" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
+<text x="31.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
+<text x="26" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
+<text x="65" y="4.5" size="1" layer="26" rot="MR0" align="center">SLV</text>
+<text x="70.08" y="9.5" size="1" layer="26" rot="MR0" align="center">TIP</text>
+<text x="59.42" y="9.5" size="1" layer="26" rot="MR0" align="center">RNG</text>
+<text x="65" y="16" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="65" y="22" size="1" layer="26" rot="MR0" align="center">SND</text>
+<text x="67.54" y="22" size="1" layer="26" rot="MR0" align="center-right">RNG</text>
+<text x="67.54" y="16" size="1" layer="26" rot="MR0" align="center-right">TIP</text>
+<text x="62.46" y="16" size="1" layer="26" rot="MR0" align="center-left">RNG</text>
+<text x="62.46" y="22" size="1" layer="26" rot="MR0" align="center-left">TIP</text>
+<text x="26" y="16" size="1" layer="26" rot="MR0" align="center">RTN</text>
+<text x="26" y="22" size="1" layer="26" rot="MR0" align="center">SND</text>
+<text x="23.46" y="22" size="1" layer="26" rot="MR0" align="center-left">TIP</text>
+<text x="23.46" y="16" size="1" layer="26" rot="MR0" align="center-left">RNG</text>
+<text x="28.54" y="16" size="1" layer="26" rot="MR0" align="center-right">TIP</text>
+<text x="28.54" y="22" size="1" layer="26" rot="MR0" align="center-right">RNG</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
