@@ -8027,12 +8027,12 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S-COPPER" value="OSHW-LOGOS-COPPER"/>
 <part name="U$1" library="pineapple" deviceset="PINEAPPLE450" device=""/>
-<part name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
-<part name="J2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
-<part name="J3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
-<part name="JJ1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
-<part name="JJ2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
-<part name="JJ3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
+<part name="J7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
+<part name="J8" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
+<part name="J9" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="DIN5" device="" package3d_urn="urn:adsk.eagle:package:38294/1"/>
+<part name="JJ7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
+<part name="JJ8" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
+<part name="JJ9" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="AUDIO_JACK_3.5MM" device="_KIT" package3d_urn="urn:adsk.eagle:package:38014/1"/>
 <part name="S1" library="switch-misc" library_urn="urn:adsk.eagle:library:376" deviceset="9450-2" device="" package3d_urn="urn:adsk.eagle:package:27434/1"/>
 <part name="S2" library="switch-misc" library_urn="urn:adsk.eagle:library:376" deviceset="9450-2" device="" package3d_urn="urn:adsk.eagle:package:27434/1"/>
 <part name="S3" library="switch-misc" library_urn="urn:adsk.eagle:library:376" deviceset="9450-2" device="" package3d_urn="urn:adsk.eagle:package:27434/1"/>
@@ -8053,27 +8053,27 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </instance>
 <instance part="LOGO1" gate="G$1" x="241.3" y="165.1" smashed="yes"/>
 <instance part="U$1" gate="G$1" x="187.96" y="7.62" smashed="yes"/>
-<instance part="J1" gate="G$1" x="25.4" y="139.7" smashed="yes">
+<instance part="J7" gate="G$1" x="25.4" y="139.7" smashed="yes">
 <attribute name="NAME" x="25.4" y="134.112" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="25.4" y="131.826" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="J2" gate="G$1" x="25.4" y="86.36" smashed="yes">
+<instance part="J8" gate="G$1" x="25.4" y="86.36" smashed="yes">
 <attribute name="NAME" x="25.4" y="80.772" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="25.4" y="78.486" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="J3" gate="G$1" x="25.4" y="27.94" smashed="yes">
+<instance part="J9" gate="G$1" x="25.4" y="27.94" smashed="yes">
 <attribute name="NAME" x="25.4" y="22.352" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="25.4" y="20.066" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="JJ1" gate="G$1" x="114.3" y="147.32" smashed="yes" rot="MR0">
+<instance part="JJ7" gate="G$1" x="114.3" y="147.32" smashed="yes" rot="MR0">
 <attribute name="NAME" x="119.38" y="152.908" size="1.778" layer="95" font="vector" rot="MR0"/>
 <attribute name="VALUE" x="119.38" y="139.7" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
-<instance part="JJ2" gate="G$1" x="114.3" y="93.98" smashed="yes" rot="MR0">
+<instance part="JJ8" gate="G$1" x="114.3" y="93.98" smashed="yes" rot="MR0">
 <attribute name="NAME" x="119.38" y="99.568" size="1.778" layer="95" font="vector" rot="MR0"/>
 <attribute name="VALUE" x="119.38" y="86.36" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
-<instance part="JJ3" gate="G$1" x="114.3" y="35.56" smashed="yes" rot="MR0">
+<instance part="JJ9" gate="G$1" x="114.3" y="35.56" smashed="yes" rot="MR0">
 <attribute name="NAME" x="119.38" y="41.148" size="1.778" layer="95" font="vector" rot="MR0"/>
 <attribute name="VALUE" x="119.38" y="27.94" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
@@ -8104,7 +8104,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <nets>
 <net name="M1RTN" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="5"/>
+<pinref part="J7" gate="G$1" pin="5"/>
 <wire x1="17.78" y1="144.78" x2="15.24" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="144.78" x2="15.24" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="162.56" x2="50.8" y2="162.56" width="0.1524" layer="91"/>
@@ -8114,7 +8114,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M3RTN" class="0">
 <segment>
-<pinref part="J3" gate="G$1" pin="5"/>
+<pinref part="J9" gate="G$1" pin="5"/>
 <wire x1="17.78" y1="33.02" x2="15.24" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="33.02" x2="15.24" y2="50.8" width="0.1524" layer="91"/>
 <label x="38.1" y="50.8" size="1.778" layer="95"/>
@@ -8124,7 +8124,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M2RTN" class="0">
 <segment>
-<pinref part="J2" gate="G$1" pin="5"/>
+<pinref part="J8" gate="G$1" pin="5"/>
 <wire x1="17.78" y1="91.44" x2="15.24" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="91.44" x2="15.24" y2="109.22" width="0.1524" layer="91"/>
 <label x="35.56" y="109.22" size="1.778" layer="95"/>
@@ -8134,37 +8134,37 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M1GND" class="2">
 <segment>
-<pinref part="J1" gate="G$1" pin="2"/>
+<pinref part="J7" gate="G$1" pin="2"/>
 <wire x1="25.4" y1="149.86" x2="25.4" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="152.4" x2="109.22" y2="152.4" width="0.1524" layer="91"/>
-<pinref part="JJ1" gate="G$1" pin="SLEEVE"/>
+<pinref part="JJ7" gate="G$1" pin="SLEEVE"/>
 <label x="35.56" y="152.4" size="1.778" layer="95"/>
 <label x="93.98" y="152.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M3GND" class="2">
 <segment>
-<pinref part="J3" gate="G$1" pin="2"/>
+<pinref part="J9" gate="G$1" pin="2"/>
 <wire x1="25.4" y1="38.1" x2="25.4" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="40.64" x2="109.22" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="JJ3" gate="G$1" pin="SLEEVE"/>
+<pinref part="JJ9" gate="G$1" pin="SLEEVE"/>
 <label x="38.1" y="40.64" size="1.778" layer="95"/>
 <label x="99.06" y="40.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M2GND" class="2">
 <segment>
-<pinref part="J2" gate="G$1" pin="2"/>
+<pinref part="J8" gate="G$1" pin="2"/>
 <wire x1="25.4" y1="96.52" x2="25.4" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="25.4" y1="99.06" x2="109.22" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="JJ2" gate="G$1" pin="SLEEVE"/>
+<pinref part="JJ8" gate="G$1" pin="SLEEVE"/>
 <label x="35.56" y="99.06" size="1.778" layer="95"/>
 <label x="96.52" y="99.06" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="M1SND" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="4"/>
+<pinref part="J7" gate="G$1" pin="4"/>
 <pinref part="S1" gate="2" pin="P"/>
 <wire x1="33.02" y1="144.78" x2="50.8" y2="144.78" width="0.1524" layer="91"/>
 <label x="35.56" y="144.78" size="1.778" layer="95"/>
@@ -8174,7 +8174,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <segment>
 <pinref part="S1" gate="1" pin="O"/>
 <wire x1="60.96" y1="165.1" x2="73.66" y2="165.1" width="0.1524" layer="91"/>
-<pinref part="JJ1" gate="G$1" pin="TIP"/>
+<pinref part="JJ7" gate="G$1" pin="TIP"/>
 <wire x1="73.66" y1="165.1" x2="73.66" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="142.24" x2="109.22" y2="142.24" width="0.1524" layer="91"/>
 <label x="93.98" y="142.24" size="1.778" layer="95"/>
@@ -8185,7 +8185,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M1RNG" class="0">
 <segment>
-<pinref part="JJ1" gate="G$1" pin="RING"/>
+<pinref part="JJ7" gate="G$1" pin="RING"/>
 <wire x1="109.22" y1="149.86" x2="68.58" y2="149.86" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="149.86" x2="68.58" y2="147.32" width="0.1524" layer="91"/>
 <pinref part="S1" gate="2" pin="O"/>
@@ -8199,7 +8199,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M2SND" class="0">
 <segment>
-<pinref part="J2" gate="G$1" pin="4"/>
+<pinref part="J8" gate="G$1" pin="4"/>
 <pinref part="S2" gate="2" pin="P"/>
 <wire x1="33.02" y1="91.44" x2="50.8" y2="91.44" width="0.1524" layer="91"/>
 <label x="35.56" y="91.44" size="1.778" layer="95"/>
@@ -8210,7 +8210,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <pinref part="S2" gate="1" pin="O"/>
 <wire x1="60.96" y1="111.76" x2="73.66" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="111.76" x2="73.66" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="JJ2" gate="G$1" pin="TIP"/>
+<pinref part="JJ8" gate="G$1" pin="TIP"/>
 <wire x1="73.66" y1="88.9" x2="109.22" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="S2" gate="2" pin="S"/>
 <wire x1="73.66" y1="88.9" x2="60.96" y2="88.9" width="0.1524" layer="91"/>
@@ -8223,7 +8223,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <pinref part="S2" gate="1" pin="S"/>
 <wire x1="60.96" y1="106.68" x2="68.58" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="106.68" x2="68.58" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="JJ2" gate="G$1" pin="RING"/>
+<pinref part="JJ8" gate="G$1" pin="RING"/>
 <wire x1="68.58" y1="96.52" x2="109.22" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="96.52" x2="68.58" y2="93.98" width="0.1524" layer="91"/>
 <junction x="68.58" y="96.52"/>
@@ -8234,7 +8234,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 </net>
 <net name="M3SND" class="0">
 <segment>
-<pinref part="J3" gate="G$1" pin="4"/>
+<pinref part="J9" gate="G$1" pin="4"/>
 <pinref part="S3" gate="2" pin="P"/>
 <wire x1="33.02" y1="33.02" x2="53.34" y2="33.02" width="0.1524" layer="91"/>
 <label x="38.1" y="33.02" size="1.778" layer="95"/>
@@ -8245,7 +8245,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <pinref part="S3" gate="1" pin="O"/>
 <wire x1="63.5" y1="53.34" x2="73.66" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="53.34" x2="73.66" y2="30.48" width="0.1524" layer="91"/>
-<pinref part="JJ3" gate="G$1" pin="TIP"/>
+<pinref part="JJ9" gate="G$1" pin="TIP"/>
 <wire x1="73.66" y1="30.48" x2="109.22" y2="30.48" width="0.1524" layer="91"/>
 <pinref part="S3" gate="2" pin="S"/>
 <wire x1="73.66" y1="30.48" x2="63.5" y2="30.48" width="0.1524" layer="91"/>
@@ -8261,7 +8261,7 @@ Marquardt, RAFI, ITT, and others&lt;p&gt;
 <pinref part="S3" gate="2" pin="O"/>
 <wire x1="68.58" y1="38.1" x2="68.58" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="35.56" x2="63.5" y2="35.56" width="0.1524" layer="91"/>
-<pinref part="JJ3" gate="G$1" pin="RING"/>
+<pinref part="JJ9" gate="G$1" pin="RING"/>
 <wire x1="109.22" y1="38.1" x2="68.58" y2="38.1" width="0.1524" layer="91"/>
 <junction x="68.58" y="38.1"/>
 <label x="99.06" y="38.1" size="1.778" layer="95"/>

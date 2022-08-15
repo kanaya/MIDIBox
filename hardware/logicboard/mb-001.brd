@@ -1615,34 +1615,34 @@ design rules under a new name.</description>
 <elements>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S_COPPER" value="OSHW-LOGOS-COPPER" x="45.5" y="35.5" smashed="yes"/>
 <element name="U$1" library="pineapple" package="PINEAPPLE450" value="PINEAPPLE450" x="45.5" y="28.5" smashed="yes"/>
-<element name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="65" y="57" smashed="yes" rot="R180">
+<element name="J7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="65" y="57" smashed="yes" rot="R180">
 <attribute name="NAME" x="69" y="38" size="1" layer="25" ratio="20" align="center"/>
 <attribute name="PROD_ID" value="CONN-09481" x="65" y="57" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="66.27" y="53.063" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
-<element name="J2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="45.5" y="57" smashed="yes" rot="R180">
+<element name="J8" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="45.5" y="57" smashed="yes" rot="R180">
 <attribute name="NAME" x="49.5" y="38" size="1" layer="25" ratio="20" rot="R180" align="center"/>
 <attribute name="PROD_ID" value="CONN-09481" x="45.5" y="57" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.77" y="53.063" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
-<element name="J3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="26" y="57" smashed="yes" rot="R180">
+<element name="J9" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="DIN5-RA-PTH" package3d_urn="urn:adsk.eagle:package:38294/1" value="DIN5" x="26" y="57" smashed="yes" rot="R180">
 <attribute name="NAME" x="30" y="38" size="1" layer="25" ratio="20" align="center"/>
 <attribute name="PROD_ID" value="CONN-09481" x="26" y="57" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="27.27" y="53.063" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
-<element name="JJ1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="65" y="6.5" smashed="yes" rot="R90">
+<element name="JJ7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="65" y="6.5" smashed="yes" rot="R90">
 <attribute name="NAME" x="65" y="14.5" size="1" layer="25" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CONN-08774" x="65" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SF_ID" value="PRT-08032" x="65" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="67.667" y="5.23" size="0.6096" layer="27" font="vector" ratio="20" rot="R90"/>
 </element>
-<element name="JJ2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="45.5" y="6.5" smashed="yes" rot="R90">
+<element name="JJ8" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="45.5" y="6.5" smashed="yes" rot="R90">
 <attribute name="NAME" x="45.5" y="14.5" size="1" layer="25" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CONN-08774" x="45.5" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SF_ID" value="PRT-08032" x="45.5" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="48.167" y="5.23" size="0.6096" layer="27" font="vector" ratio="20" rot="R90"/>
 </element>
-<element name="JJ3" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="26" y="6.5" smashed="yes" rot="R90">
+<element name="JJ9" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="AUDIO-JACK-KIT" package3d_urn="urn:adsk.eagle:package:38014/1" value="AUDIO_JACK_3.5MM_KIT" x="26" y="6.5" smashed="yes" rot="R90">
 <attribute name="NAME" x="26" y="14.5" size="1" layer="25" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CONN-08774" x="26" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SF_ID" value="PRT-08032" x="26" y="6.5" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1666,7 +1666,7 @@ design rules under a new name.</description>
 </elements>
 <signals>
 <signal name="M1RTN">
-<contactref element="J1" pad="5"/>
+<contactref element="J7" pad="5"/>
 <contactref element="S1" pad="2"/>
 <wire x1="66.294" y1="17.7546" x2="65.0748" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="69.9516" y1="21.4122" x2="66.294" y2="17.7546" width="0.1524" layer="1"/>
@@ -1675,7 +1675,7 @@ design rules under a new name.</description>
 <wire x1="69.9516" y1="41.9862" x2="70" y2="42" width="0.1524" layer="1"/>
 </signal>
 <signal name="M3RTN">
-<contactref element="J3" pad="5"/>
+<contactref element="J9" pad="5"/>
 <contactref element="S3" pad="2"/>
 <wire x1="27.2796" y1="17.7546" x2="26.0604" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="28.8798" y1="19.3548" x2="27.2796" y2="17.7546" width="0.1524" layer="1"/>
@@ -1686,7 +1686,7 @@ design rules under a new name.</description>
 <wire x1="30.9372" y1="41.9862" x2="31" y2="42" width="0.1524" layer="1"/>
 </signal>
 <signal name="M2RTN">
-<contactref element="J2" pad="5"/>
+<contactref element="J8" pad="5"/>
 <contactref element="S2" pad="2"/>
 <wire x1="46.7868" y1="17.7546" x2="45.5676" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="50.4444" y1="21.4122" x2="46.7868" y2="17.7546" width="0.1524" layer="1"/>
@@ -1695,8 +1695,8 @@ design rules under a new name.</description>
 <wire x1="50.4444" y1="41.9862" x2="50.5" y2="42" width="0.1524" layer="1"/>
 </signal>
 <signal name="M1GND" class="2">
-<contactref element="J1" pad="2"/>
-<contactref element="JJ1" pad="SLEEVE"/>
+<contactref element="J7" pad="2"/>
+<contactref element="JJ7" pad="SLEEVE"/>
 <wire x1="65.0748" y1="10.1346" x2="65.0748" y2="6.5532" width="0.3048" layer="16"/>
 <wire x1="66.0654" y1="11.1252" x2="65.0748" y2="10.1346" width="0.3048" layer="16"/>
 <wire x1="66.0654" y1="14.859" x2="66.0654" y2="11.1252" width="0.3048" layer="16"/>
@@ -1720,8 +1720,8 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 <signal name="M3GND" class="2">
-<contactref element="J3" pad="2"/>
-<contactref element="JJ3" pad="SLEEVE"/>
+<contactref element="J9" pad="2"/>
+<contactref element="JJ9" pad="SLEEVE"/>
 <wire x1="26.0604" y1="10.1346" x2="26.0604" y2="6.5532" width="0.3048" layer="16"/>
 <wire x1="27.051" y1="11.1252" x2="26.0604" y2="10.1346" width="0.3048" layer="16"/>
 <wire x1="27.051" y1="14.859" x2="27.051" y2="11.1252" width="0.3048" layer="16"/>
@@ -1745,8 +1745,8 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 <signal name="M2GND" class="2">
-<contactref element="J2" pad="2"/>
-<contactref element="JJ2" pad="SLEEVE"/>
+<contactref element="J8" pad="2"/>
+<contactref element="JJ8" pad="SLEEVE"/>
 <wire x1="45.5676" y1="10.1346" x2="45.5676" y2="6.5532" width="0.3048" layer="16"/>
 <wire x1="46.5582" y1="11.1252" x2="45.5676" y2="10.1346" width="0.3048" layer="16"/>
 <wire x1="46.5582" y1="14.859" x2="46.5582" y2="11.1252" width="0.3048" layer="16"/>
@@ -1769,7 +1769,7 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 <signal name="M1SND">
-<contactref element="J1" pad="4"/>
+<contactref element="J7" pad="4"/>
 <contactref element="S1" pad="5"/>
 <wire x1="64.9986" y1="37.0332" x2="64.9986" y2="20.3454" width="0.1524" layer="1"/>
 <wire x1="60.0456" y1="41.9862" x2="64.9986" y2="37.0332" width="0.1524" layer="1"/>
@@ -1778,7 +1778,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="M1TIP">
 <contactref element="S1" pad="3"/>
-<contactref element="JJ1" pad="TIP"/>
+<contactref element="JJ7" pad="TIP"/>
 <contactref element="S1" pad="4"/>
 <wire x1="66.294" y1="17.7546" x2="67.5132" y2="17.7546" width="0.1524" layer="16"/>
 <wire x1="64.6938" y1="19.3548" x2="66.294" y2="17.7546" width="0.1524" layer="16"/>
@@ -1792,7 +1792,7 @@ design rules under a new name.</description>
 <wire x1="67.5894" y1="17.6784" x2="67.54" y2="17.73" width="0.1524" layer="1"/>
 </signal>
 <signal name="M1RNG">
-<contactref element="JJ1" pad="RING"/>
+<contactref element="JJ7" pad="RING"/>
 <contactref element="S1" pad="6"/>
 <contactref element="S1" pad="1"/>
 <wire x1="63.7032" y1="17.7546" x2="62.484" y2="17.7546" width="0.1524" layer="1"/>
@@ -1807,7 +1807,7 @@ design rules under a new name.</description>
 <wire x1="62.4078" y1="17.6784" x2="62.46" y2="17.73" width="0.1524" layer="1"/>
 </signal>
 <signal name="M2SND">
-<contactref element="J2" pad="4"/>
+<contactref element="J8" pad="4"/>
 <contactref element="S2" pad="5"/>
 <wire x1="45.4914" y1="37.0332" x2="45.4914" y2="20.3454" width="0.1524" layer="16"/>
 <wire x1="40.5384" y1="41.9862" x2="45.4914" y2="37.0332" width="0.1524" layer="16"/>
@@ -1816,7 +1816,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="M2TIP">
 <contactref element="S2" pad="3"/>
-<contactref element="JJ2" pad="TIP"/>
+<contactref element="JJ8" pad="TIP"/>
 <contactref element="S2" pad="4"/>
 <wire x1="46.7868" y1="17.7546" x2="48.006" y2="17.7546" width="0.1524" layer="16"/>
 <wire x1="45.1866" y1="19.3548" x2="46.7868" y2="17.7546" width="0.1524" layer="16"/>
@@ -1831,7 +1831,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="M2RNG">
 <contactref element="S2" pad="1"/>
-<contactref element="JJ2" pad="RING"/>
+<contactref element="JJ8" pad="RING"/>
 <contactref element="S2" pad="6"/>
 <wire x1="44.196" y1="17.7546" x2="42.9768" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="45.7962" y1="19.3548" x2="44.196" y2="17.7546" width="0.1524" layer="1"/>
@@ -1845,7 +1845,7 @@ design rules under a new name.</description>
 <wire x1="42.9006" y1="17.6784" x2="42.96" y2="17.73" width="0.1524" layer="1"/>
 </signal>
 <signal name="M3SND">
-<contactref element="J3" pad="4"/>
+<contactref element="J9" pad="4"/>
 <contactref element="S3" pad="5"/>
 <wire x1="25.9842" y1="37.0332" x2="25.9842" y2="20.3454" width="0.1524" layer="1"/>
 <wire x1="21.0312" y1="41.9862" x2="25.9842" y2="37.0332" width="0.1524" layer="1"/>
@@ -1854,7 +1854,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="M3TIP">
 <contactref element="S3" pad="3"/>
-<contactref element="JJ3" pad="TIP"/>
+<contactref element="JJ9" pad="TIP"/>
 <contactref element="S3" pad="4"/>
 <wire x1="27.2796" y1="17.7546" x2="28.4988" y2="17.7546" width="0.1524" layer="16"/>
 <wire x1="25.6794" y1="19.3548" x2="27.2796" y2="17.7546" width="0.1524" layer="16"/>
@@ -1870,7 +1870,7 @@ design rules under a new name.</description>
 <signal name="M3RNG">
 <contactref element="S3" pad="1"/>
 <contactref element="S3" pad="6"/>
-<contactref element="JJ3" pad="RING"/>
+<contactref element="JJ9" pad="RING"/>
 <wire x1="24.765" y1="17.7546" x2="23.4696" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="27.2796" y1="20.2692" x2="24.765" y2="17.7546" width="0.1524" layer="1"/>
 <wire x1="28.4988" y1="20.2692" x2="27.2796" y2="20.2692" width="0.1524" layer="1"/>
