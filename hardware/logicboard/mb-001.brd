@@ -258,7 +258,8 @@ PF10-4-7</text>
 <text x="28.54" y="16" size="1" layer="26" rot="MR0" align="center-right">TIP</text>
 <text x="28.54" y="22" size="1" layer="26" rot="MR0" align="center-right">RNG</text>
 <text x="22" y="17.73" size="1" layer="25" align="center-right">1</text>
-<text x="19.5" y="6.5" size="1" layer="25" align="center-right">MJ-495-A</text>
+<text x="19.5" y="6.5" size="1" layer="25" align="center-right">Avvicon
+MJ-495-A</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
